@@ -1,0 +1,159 @@
+#container{
+    background-color: lightslategray;
+    border-style: groove;
+    border-color: black;
+    border-radius: 60px;
+    position: relative;
+    top: 40px;
+    width: 2500px;
+    height: 700px;
+}
+
+#titdiv {
+    background-color: purple;  
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    width: 200px;
+    font-size: 56px;
+
+    position: relative;
+    left: 1100px;
+    border-style:dotted;
+    border-radius: 30px;
+    border-width: 6px;
+    border-color: black;
+}
+
+#lasagna {
+    background-color: green;
+    font-size: 50px;
+    width: 300px;
+    text-align: center;
+    font-weight: 800;
+    font-family:'Courier New', Courier, monospace;
+    border-style: dashed;
+    text-decoration: none;
+    border-width: 5px;
+    border-radius: 20px;
+    position: relative;
+    left: 200px;
+    top: 70px; 
+}
+
+#imglag {
+    border-style:double;
+    border-radius: 30px;
+    border-width: 6px;
+    border-color: darkgreen;
+    position: relative;
+    top: 90px;
+    width: 400px;
+    left: 150px;
+    
+
+}
+
+#lagtext {
+    background-color: lightcoral;
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+    border-style: dashed;
+    border-color: green;
+    border-radius: 5px;
+    position: relative;
+    top: 80px;
+    left: 210px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*lasagna finalizada*/
+
+#papa {
+    background-color: green;
+    font-size: 50px;
+    width: 220px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    border-style: dashed;
+    text-decoration: none;
+    border-width: 5px;
+    border-radius: 20px;
+    position: relative;
+    left: 1100px;
+    bottom: 470px; 
+    font-weight: 800;
+
+}
+
+#imgpapa {
+    border-style:double;
+    border-radius: 30px;
+    border-width: 6px;
+    border-color: darkgreen;
+    position: relative;
+    left: 1000px;
+    bottom: 455px;
+    width: 430px;
+    height: 330px;
+
+}
+
+#papatext {
+    background-color: lightcoral;
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+    border-style: dashed;
+    border-color: green;
+    border-radius: 5px;
+    position: relative;
+    left: 1070px;
+    bottom: 460px;
+}
+
+#mondongo {
+    background-color: green;
+    font-size: 50px;
+    width: 300px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 800;
+    border-style: dashed;
+    text-decoration: none;
+    border-width: 5px;
+    border-radius: 20px;
+    position: relative;
+    left: 1900px;
+    bottom: 1015px;
+
+}
+
+#mondongoimg {
+    border-style:double;
+    border-radius: 30px;
+    border-width: 6px;
+    border-color: darkgreen;
+    position: relative;
+    left: 1800px;
+    bottom: 1000px;
+    width: 490px;
+    height: 330px;
+}
+
+#montext {
+    background-color: lightcoral;
+    text-align: center;
+    width: 300px;
+    border-style: dashed;
+    border-color: green;
+    border-radius: 5px;
+    position: relative;
+    left: 1900px;
+    bottom: 1000px;
+    font-size: 20px;
+}
